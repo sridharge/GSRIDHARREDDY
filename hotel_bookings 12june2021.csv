@@ -1,0 +1,13 @@
+hotel,is_canceled,lead_time,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,agent
+Resort Hotel,NULL,342,27,1,0,0,2,NULL
+Resort Hotel,0,737,27,NULL,0,0,2,NULL
+Resort Hotel,0,7,27,1,0,1,1,NULL
+Resort Hotel,0,13,27,1,0,1,1,304
+Resort Hotel,NULL,14,NULL,1,NULL,2,2,240
+Resort Hotel,0,14,27,1,0,2,2,240
+Resort Hotel,0,0,27,1,0,2,2,NULL
+Resort Hotel,0,9,27,1,NULL,2,2,303
+Resort Hotel,1,85,NULL,NULL,0,3,2,240
+Resort Hotel,1,75,27,1,0,3,2,15
+Resort Hotel,1,23,27,1,0,4,2,240
+,,,,,,,,240
